@@ -1,77 +1,96 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dana (Dhahyun) Kang",
+    "label": "Mechanical Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "danakang@umd.edu",
+    "phone": "(703) 402-3845",
+    "url": "https://dana-kang.github.io/al-folio/",
+    "summary": "I'm a 2nd year master's student at the University of Maryland, College Park, majoring in Mechanical Engineering and a certified Engineer-in-Training working towards a Professional Engineer license. I am passionate about sustainability and dedicated to reducing fossil fuel use through strategic electrification and the implementation of energy efficient technologies.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "8136 Paint Branch Dr",
+      "postalCode": "MD 20742",
+      "city": "College Park",
       "countryCode": "US",
-      "region": "California"
+      "region": "Maryland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "danakang",
+        "url": "https://www.linkedin.com/in/danakang/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Center for Environmental Energy Engineering, University of Maryland",
+      "position": "Graduate Research Assistant",
+      "url": "https://ceee.umd.edu",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "summary": "My current research is focused on developing a building energy model for a high-efficiency cold climate heat pump system.",
       "highlights": ["Relativity"]
+    }
+    {
+      "name": "Bear Robotics",
+      "position": "Mechanical Engineering Intern",
+      "url": "https://bearrobotics.ai",
+      "startDate": "2024-03",
+      "endDate": "2024-06",
+    }
+    {
+      "name": "Optimized Energy Conversion Systems Lab, Korea University",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://bearrobotics.ai",
+      "startDate": "2023-02",
+      "endDate": "2023-12",
+    }
+    {
+      "name": "Samsung SDI",
+      "position": "Module Engineering Intern",
+      "url": "https://samsungsdi.com",
+      "startDate": "2022-07",
+      "endDate": "2023-01",
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "ASHRAE University of Maryland Student Branch",
+      "location": "College Park, MD",
+      "position": "President",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Maryland, College Park",
+      "location": "College Park, MD",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "area": "Mechanical Engineering",
+      "studyType": "MS",
+      "startDate": "2024-08",
+      "endDate": "2026-05",
+      "score": "3.94",
       "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "ASHRAE Graduate Grant-in-Aid",
+      "date": "2025-05-01",
+      "awarder": "American Society of Heating, Refrigerating and Air-Conditioning Engineers",
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Engineer-in-Training",
+      "date": "2025-10",
+      "issuer": "Texas Board of Professional Engineers and Land Surveyors",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
@@ -83,27 +102,6 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
       "name": "Quantum Teleportation",
       "date": "2018-01-01",
       "issuer": "Stanford University",
@@ -113,11 +111,10 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Multi-Stage Heat Pump with Two-Phase Injection for Cold Climate Applications Implementing Natural Refrigerants",
+      "publisher": "Applied Thermal Engineering",
+      "releaseDate": "2025-01",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359431125000651?via%3Dihub",
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
@@ -151,13 +148,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Korean",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
@@ -175,18 +172,7 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+
   "projects": [
     {
       "name": "Quantum Computing",
